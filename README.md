@@ -1,11 +1,8 @@
 # End-to-End-Heart-Disease-Classification
 
-It shows full pipeline skills:
-
-Data loading, preprocessing, EDA, feature engineering, modeling, evaluation, visualization, and conclusion.
-
-**Heart Disease Classification | End-to-End ML Project**
-- Built a complete machine learning pipeline to predict heart disease using clinical data.
-- Conducted EDA, feature engineering, scaling, and model training with Logistic Regression, Random Forest, and KNN.
-- Achieved ~89% accuracy; identified model limitations and proposed improvements (e.g., more data, advanced algorithms).
-- Visualized results via confusion matrices and classification reports; documented key insights and next steps.
+**Heart Disease Classification – End-to-End ML Project**
+- Developed a full machine learning pipeline to classify heart disease using clinical patient data.
+- Performed EDA, feature engineering, and trained multiple models (Logistic Regression, Random Forest, KNN).
+- Achieved ~89% accuracy; analyzed model performance using confusion matrices and classification reports.
+- Interpreted key features (`sex`, `slope`, `cp`, `thal`) and proposed next steps for improvement.
+- Documented the entire process with insights, reflection, and realistic evaluation metrics.
